@@ -16,8 +16,6 @@
     }
 </style>
 
-<Resources />
-
 <hr />
 
 {#await articlesData}
