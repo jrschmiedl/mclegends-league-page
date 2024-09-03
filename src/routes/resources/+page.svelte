@@ -15,7 +15,7 @@
         max-width: 800px;
     }
 </style>
-//<Resources />
+<!-- <Resources /> -->
 <hr />
 
 {#await articlesData}
