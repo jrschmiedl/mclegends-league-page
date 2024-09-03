@@ -239,6 +239,8 @@
         <li>X.12: League Champion</li>
     </ul>
 
+    <p> The 2.13 pick will be awarded to the team with the most points from the league pickem. This will be tracked on the league website.</p>
+
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rookie drafts will consist of 4 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (4) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
     <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
