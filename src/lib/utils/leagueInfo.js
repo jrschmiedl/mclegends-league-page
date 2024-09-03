@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Home Page for MC Legends Dynasty League</p>
+  <iframe src="https://docs.google.com/spreadsheets/d/14uA1SfOhTfmsrG7l0FSCoamJX42MM87dQjQtGEey_Lw/pubhtml?gid=1452367997&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 `;
 
 /*   STEP 3   */
