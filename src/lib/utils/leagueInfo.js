@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <iframe src="https://docs.google.com/spreadsheets/d/14uA1SfOhTfmsrG7l0FSCoamJX42MM87dQjQtGEey_Lw/pubhtml?gid=1452367997&amp;single=true&amp;widget=true&amp;headers=false" width="320" height="360" frameborder="0" marginheight="0" marginwidth="0"></iframe>
   
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdMbh6vFx8v2vxepsKl8EKCYKdPOs7ONTCgqdnhZ7JWU23BtQ/viewform?embedded=true" width="640" height="1658" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>`
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8m3CBmHz-K8fXtiawgA0ORRn7Y8kghFS06UJwblj_JI56fg/viewform?embedded=true" width="640" height="1658" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>`
   ;
 
 /*   STEP 3   */
