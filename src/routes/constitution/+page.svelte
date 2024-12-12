@@ -227,10 +227,10 @@
     <ul>
         <li>X.01: Winner of Toilet Bowl</li>
         <li>X.02: Loser of Toilet Bowl</li>
-        <li>X.03: Winner of Lottery Bracket</li>
-        <li>X.04: Lowest Overall Winning Percentage/Playoff Seed</li>
-        <li>X.05: 2nd Lowest Overall Winning Percentage/Playoff Seed</li>
-        <li>X.06: 3rd Lowest Overall Winning Percentage/Playoff Seed</li>
+        <li>X.03: Lowest Overall Winning Percentage/Playoff Seed</li>
+        <li>X.04: 2nd Lowest Overall Winning Percentage/Playoff Seed</li>
+        <li>X.05: 3rd Lowest Overall Winning Percentage/Playoff Seed</li>
+        <li>X.06: 4th Lowest Overall Winning Percentage/Playoff Seed</li>
         <li>X.07: 4th Highest Overall Winning Percentage/Playoff Seed</li>
         <li>X.08: 3rd Highest Overall Winning Percentage/Playoff Seed</li>
         <li>X.09: 2nd Highest Overall Winning Percentage/Playoff Seed</li>
